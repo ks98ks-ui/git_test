@@ -6,3 +6,8 @@ scanf(" %d", &n);
 printf("%d", n);
 return 0;
 }
+
+int i, j;
+for (i=1; i<=n; i++) {
+for (j=1; j<=i; j++) 
+}
