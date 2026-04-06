@@ -1,0 +1,7 @@
+복습
+탈출=컨트롤c
+시작 git init
+echo @@@ > .aaa = 만들기
+echo @@@ >> .aaa = aaa에 내용추가하기
+폴더 바꾸기 cd @
+git push 올리기 git pull 가져오기
