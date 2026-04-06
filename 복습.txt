@@ -5,3 +5,4 @@ echo @@@ > .aaa = 만들기
 echo @@@ >> .aaa = aaa에 내용추가하기
 폴더 바꾸기 cd @
 git push 올리기 git pull 가져오기
+집에서 해보기
